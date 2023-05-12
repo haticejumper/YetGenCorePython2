@@ -1,0 +1,6 @@
+kullanýcý adýhatice süngü
+kullanýcýnýn yaþ kilo boy bilgisi 22, 65.0, 156.0
+kullanýcýnýn vücüt kitle indexi 0.0
+deðer aralýðý zayýf
+oluþturma tarihi Fri May 12 19:13:18 2023
+********************
